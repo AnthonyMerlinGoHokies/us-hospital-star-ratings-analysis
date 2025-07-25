@@ -1,8 +1,8 @@
-# U.S. Hospital Star Ratings Analysis (2016-2020) ⭐🏥
+# U.S. Hospital Star Ratings Analysis (2016-2020) 
 
 A comprehensive state-by-state analysis of U.S. hospital performance using CMS Hospital Compare data. This Excel-based study reveals dramatic geographic disparities in hospital quality across 25,082 Medicare-certified hospitals.
 
-## 🎯 Key Findings
+## Key Findings
 
 ### **Geographic Performance Champions**
 - **Massachusetts leads the nation:** 43.2% of hospitals above national average
@@ -19,7 +19,7 @@ A comprehensive state-by-state analysis of U.S. hospital performance using CMS H
 Nine states have **ZERO hospitals** performing above national average on mortality:
 - Utah, Puerto Rico, Oregon, New Mexico, Montana, Maine, Hawaii, Arkansas, Alaska
 
-## 📊 Performance Rankings
+## Performance Rankings
 
 ### Top 10 States (% Hospitals Above National Average)
 | Rank | State | Above Average | Total Hospitals | Percentage |
@@ -49,20 +49,7 @@ Nine states have **ZERO hospitals** performing above national average on mortali
 | 9 | Alaska | 0 | 115 | **0%** |
 | 10 | North Dakota | 1 | 226 | **0.4%** |
 
-## 📁 Repository Structure
-
-```
-hospital-star-ratings-analysis/
-├── analysis/
-│   └── Hospital_General_Information_2016_2020.xlsx  # Complete analysis
-├── data/
-│   └── cms_dataset_overview.md                      # Dataset documentation
-├── findings/
-│   └── state_performance_insights.md                # Detailed findings
-└── README.md                                        # This file
-```
-
-## 🔬 Analysis Methodology
+## Analysis Methodology
 
 ### Data Source & Quality
 - **Source:** CMS Hospital Compare Program (2016-2020)
@@ -84,7 +71,7 @@ hospital-star-ratings-analysis/
 - **Patient Experience** scores
 - **Overall Star Ratings** (1-5 scale)
 
-## 🏥 Healthcare Policy Implications
+## Healthcare Policy Implications
 
 ### Immediate Actions Needed
 1. **Federal Intervention:** Target zero-performer states with quality improvement programs
@@ -98,7 +85,7 @@ hospital-star-ratings-analysis/
 - **Rural Challenges:** Smaller states show lower performance rates
 - **Population Density Effect:** Urban states generally outperform rural states
 
-## 💡 Business Applications
+## Business Applications
 
 ### For Healthcare Consumers
 - **Hospital Selection:** Use state rankings for relocation decisions
@@ -115,7 +102,7 @@ hospital-star-ratings-analysis/
 - **Regulatory Focus:** Prioritize oversight in low-performing states
 - **Program Development:** Scale successful models from top performers
 
-## 📈 Data Insights Deep Dive
+## Data Insights Deep Dive
 
 ### Critical Statistics
 - **National Performance Distribution:**
@@ -129,7 +116,7 @@ hospital-star-ratings-analysis/
 - **Regional Clustering:** Top performers concentrated in Northeast corridor
 - **Scale Impact:** Large states (CA, TX, FL) show mixed performance
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Tools Used
 - **Microsoft Excel:** Primary analysis platform
@@ -143,7 +130,7 @@ hospital-star-ratings-analysis/
 - **Performance Categorization:** Above/Below/Same as national average
 - **Missing Data Tracking:** Comprehensive data quality metrics
 
-## 🚀 Future Enhancement Opportunities
+## Future Enhancement Opportunities
 
 ### Advanced Analytics
 - **Time Series Analysis:** Hospital performance trends over 5 years
@@ -157,7 +144,7 @@ hospital-star-ratings-analysis/
 - **Cost-Benefit Studies:** Quality vs. healthcare spending efficiency
 - **Patient Outcome Modeling:** Star ratings vs. actual health outcomes
 
-## 📊 Data Visualization Highlights
+## Data Visualization Highlights
 
 The analysis reveals stark contrasts in U.S. healthcare quality:
 - **Massachusetts Model:** Nearly half of hospitals exceed national standards
@@ -165,7 +152,7 @@ The analysis reveals stark contrasts in U.S. healthcare quality:
 - **Northeast Advantage:** Consistent regional outperformance
 - **Data Transparency Crisis:** One-third of hospitals lack performance data
 
-## 🔍 Key Takeaways for Stakeholders
+## Key Takeaways for Stakeholders
 
 **For Patients:** Location dramatically impacts healthcare quality - state choice matters for health outcomes.
 
@@ -179,7 +166,7 @@ The analysis reveals stark contrasts in U.S. healthcare quality:
 
 *This analysis demonstrates how large-scale healthcare data can reveal critical patterns in national health system performance, providing actionable insights for improving patient care across America.*
 
-## 📄 License
+## License
 
 This project uses public domain CMS data. Analysis methodology and insights are available under MIT License.
 
