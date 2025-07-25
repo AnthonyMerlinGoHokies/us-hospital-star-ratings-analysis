@@ -170,6 +170,6 @@ The analysis reveals stark contrasts in U.S. healthcare quality:
 
 This project uses public domain CMS data. Analysis methodology and insights are available under MIT License.
 
-## 📧 Contact
+## Contact
 
 Questions about methodology or findings? Happy to discuss healthcare data analysis approaches and results!
